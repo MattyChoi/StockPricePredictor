@@ -1,3 +1,12 @@
+# virutal environment #### use matty\Scripts\activate
+matty
+matty/**
+naren
+naren/**
+varun
+varun/**
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
